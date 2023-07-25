@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wellwellxd.cc/</loc>
+    <loc>https://wellwellxd.github.io/</loc>
     <lastmod>2023-07-25T19:43:09+08:00</lastmod>
   </url><url>
-    <loc>https://wellwellxd.cc/post/hello-hugo/</loc>
+    <loc>https://wellwellxd.github.io/post/hello-hugo/</loc>
     <lastmod>2023-07-25T19:43:09+08:00</lastmod>
   </url><url>
-    <loc>https://wellwellxd.cc/post/</loc>
+    <loc>https://wellwellxd.github.io/post/</loc>
     <lastmod>2023-07-25T19:43:09+08:00</lastmod>
   </url><url>
-    <loc>https://wellwellxd.cc/categories/</loc>
+    <loc>https://wellwellxd.github.io/categories/</loc>
   </url><url>
-    <loc>https://wellwellxd.cc/tags/</loc>
+    <loc>https://wellwellxd.github.io/tags/</loc>
   </url>
 </urlset>

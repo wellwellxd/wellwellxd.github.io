@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chambers Chien</title>
-    <link>https://wellwellxd.cc/</link>
+    <link>https://wellwellxd.github.io/</link>
     <description>Recent content on Chambers Chien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2023 19:43:09 +0800</lastBuildDate><atom:link href="https://wellwellxd.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 19:43:09 +0800</lastBuildDate><atom:link href="https://wellwellxd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>https://wellwellxd.cc/post/hello-hugo/</link>
+      <link>https://wellwellxd.github.io/post/hello-hugo/</link>
       <pubDate>Tue, 25 Jul 2023 19:43:09 +0800</pubDate>
       
-      <guid>https://wellwellxd.cc/post/hello-hugo/</guid>
+      <guid>https://wellwellxd.github.io/post/hello-hugo/</guid>
       <description>Hi</description>
     </item>
     
